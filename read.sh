@@ -1,6 +1,5 @@
 #!/bin/bash
-# author:菜鸟教程
-# url:www.runoob.com
+# examples for reading text from a file
 filename=run.sh
 # method 1
 :'

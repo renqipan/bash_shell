@@ -1,5 +1,6 @@
 #!/bin/bash
 # bash script to run MCFM-8.3
+# this script is written by Renqi Pan
 Cpq3=(0.5 1.0)
 Cpu=(0.5 1.0)
 ReCup=(1.0 1.5 2.0 )
